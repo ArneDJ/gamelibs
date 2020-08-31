@@ -7,6 +7,7 @@ This is a list of C/C++ libraries I use, have used or plan to use.
 * [glm](https://glm.g-truc.net/0.9.9/index.html)
 * [cglm](https://github.com/recp/cglm)
 * [voronoi](https://github.com/JCash/voronoi)
+* [poisson disk](https://github.com/thinks/poisson-disk-sampling)
 
 ### System
 * [SDL2](https://www.libsdl.org/download-2.0.php)
@@ -29,7 +30,7 @@ This is a list of C/C++ libraries I use, have used or plan to use.
 
 ### Image Manipulation
 * [heman](https://github.com/prideout/heman)
-* [gauss blur]()
+* [gauss blur](http://arkanis.de/weblog/2018-08-30-iir-gauss-blur-h-a-gaussian-blur-single-header-file-library)
 
 ### Physics
 * [Bullet Physics](https://github.com/bulletphysics/bullet3)
