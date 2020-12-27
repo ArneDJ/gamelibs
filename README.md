@@ -6,8 +6,11 @@ This is a list of C/C++ libraries I use, have used or plan to use.
 ### Mathematics
 * [glm](https://glm.g-truc.net/0.9.9/index.html)
 * [cglm](https://github.com/recp/cglm)
-* [voronoi](https://github.com/JCash/voronoi)
 * [poisson disk](https://github.com/thinks/poisson-disk-sampling)
+
+### Computational Geometry
+* [voronoi](https://github.com/JCash/voronoi)
+* [CDT](https://github.com/artem-ogre/CDT)
 
 ### System
 * [SDL2](https://www.libsdl.org/download-2.0.php)
@@ -38,6 +41,9 @@ This is a list of C/C++ libraries I use, have used or plan to use.
 ### Random Generators
 * [Fastnoise](https://github.com/Auburn/FastNoise)
 * [fantasyname](https://github.com/skeeto/fantasyname)
+
+### Navigation
+* [Recast](https://github.com/recastnavigation/recastnavigation)
 
 ### Other
 * [Game Dev Libraries](https://github.com/raizam/gamedev_libraries)
