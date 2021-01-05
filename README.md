@@ -19,6 +19,9 @@ This is a list of C/C++ libraries I use, have used or plan to use.
 * [opengl](https://www.opengl.org/)
 * [vulkan](https://www.khronos.org/vulkan/)
 
+### Animation
+* [Ozz](https://github.com/guillaumeblanc/ozz-animation)
+
 ### Media Importing
 * [stb image](https://github.com/nothings/stb)
 * [TinyGLTF](https://github.com/syoyo/tinygltf)
