@@ -28,6 +28,7 @@ This is a list of C/C++ libraries I use, have used or plan to use.
 * [TinyGLTF](https://github.com/syoyo/tinygltf)
 * [cgltf](https://github.com/jkuhlmann/cgltf)
 * [dds-ktx](https://github.com/septag/dds-ktx)
+* [assimp](https://github.com/assimp/assimp)
 
 ### Data importing
 * [inih](https://github.com/jtilly/inih)
