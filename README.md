@@ -7,6 +7,7 @@ This is a list of C/C++ libraries I use, have used or plan to use.
 * [glm](https://glm.g-truc.net/0.9.9/index.html)
 * [cglm](https://github.com/recp/cglm)
 * [poisson disk](https://github.com/thinks/poisson-disk-sampling)
+* [poisson disk generator](https://github.com/corporateshark/poisson-disk-generator)
 
 ### Computational Geometry
 * [voronoi](https://github.com/JCash/voronoi)
