@@ -43,6 +43,8 @@ This is a list of C/C++ libraries I use, have used or plan to use.
 ### Image Manipulation
 * [heman](https://github.com/prideout/heman)
 * [gauss blur](http://arkanis.de/weblog/2018-08-30-iir-gauss-blur-h-a-gaussian-blur-single-header-file-library)
+* [Image Magick](https://imagemagick.org/index.php)
+* [CImg](https://github.com/dtschump/CImg)
 
 ### Physics
 * [Bullet Physics](https://github.com/bulletphysics/bullet3)
