@@ -19,7 +19,7 @@ This is a list of C/C++ libraries I use, have used or plan to use.
 ### Sound
 * [SDL2 mixer](https://www.libsdl.org/projects/SDL_mixer/)
 * [OpenAL](https://www.openal.org/)
-* 
+
 ### Graphics
 * [opengl](https://www.opengl.org/)
 * [vulkan](https://www.khronos.org/vulkan/)
