@@ -45,6 +45,7 @@ This is a list of C/C++ libraries I use, have used or plan to use.
 * [gauss blur](http://arkanis.de/weblog/2018-08-30-iir-gauss-blur-h-a-gaussian-blur-single-header-file-library)
 * [Image Magick](https://imagemagick.org/index.php)
 * [CImg](https://github.com/dtschump/CImg)
+* [libvips](https://libvips.github.io/libvips)
 
 ### Physics
 * [Bullet Physics](https://github.com/bulletphysics/bullet3)
